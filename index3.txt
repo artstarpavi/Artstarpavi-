@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ArtStar Pavi | Professional Art Business</title>
+  <title>ArtStar Pavi |Art Business</title>
 
   <!-- SEO -->
   <meta name="description" content="ArtStar Pavi by Pavithra Sree. P – Handmade art, texture & oil paintings, school craft works, and professional online art classes.">
@@ -90,16 +90,16 @@
 <section id="contact" class="contact">
   <h2>Contact Us</h2>
   <form>
-    <input type="text" placeholder="Your Name">
-    <input type="email" placeholder="Your Email">
+    <input type="text" placeholder="your name">
+    <input type="email" placeholder="email">
     <textarea rows="4" placeholder="Your Message"></textarea>
     <button type="submit">Send Message</button>
   </form>
 
   <br>
-  <a class="wa" href="https://wa.me/91XXXXXXXXXX">WhatsApp</a>
-  <a href="https://instagram.com">Instagram</a>
-  <a href="https://youtube.com">YouTube</a>
+  <a class="wa" href="https://wa.me/919686200419">WhatsApp</a>
+  <a href="https://instagram.com">pavithrasree04@Instagram.com</a>
+  <a href="https://youtube.com">artstarpavi@YouTube.com</a>
 </section>
 
 <footer>
