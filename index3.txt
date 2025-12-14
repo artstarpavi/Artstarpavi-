@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ArtStar Pavi | Professional Art Business</title>
+
+  <!-- SEO -->
+  <meta name="description" content="ArtStar Pavi by Pavithra Sree. P – Handmade art, texture & oil paintings, school craft works, and professional online art classes.">
+  <meta name="keywords" content="ArtStar Pavi, Pavithra Sree, Texture Painting, Oil Painting, Pencil Art, Online Art Classes, School Craft Work">
+  <meta name="author" content="Pavithra Sree. P">
+
+  <style>
+    body{margin:0;font-family:'Segoe UI',Arial,sans-serif;background:#f9f9f9;color:#333}
+    header{background:#3b0d11;color:#fff;padding:15px 25px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:10}
+    header img{height:55px}
+    nav a{color:#fff;margin-left:15px;text-decoration:none;font-weight:600}
+    nav a:hover{text-decoration:underline}
+
+    .hero{background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url('art1.jpg') center/cover no-repeat;padding:90px 20px;color:white;text-align:center}
+    .hero h1{font-size:3em;margin-bottom:10px}
+    .hero p{font-size:1.2em}
+    .hero a{display:inline-block;margin-top:25px;padding:14px 30px;background:#25d366;color:white;text-decoration:none;border-radius:30px;font-weight:bold}
+
+    section{padding:60px 20px;max-width:1200px;margin:auto}
+    h2{text-align:center;color:#3b0d11;margin-bottom:35px;font-size:2em}
+
+    .about{text-align:center;max-width:900px;margin:auto;line-height:1.8}
+
+    .services,.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:25px}
+    .box{background:#fff;padding:25px;border-radius:15px;box-shadow:0 6px 15px rgba(0,0,0,.1);text-align:center}
+
+    .gallery img{width:100%;height:240px;object-fit:cover;border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,.15)}
+
+    .contact{text-align:center}
+    form{max-width:500px;margin:auto}
+    input,textarea{width:100%;padding:12px;margin:10px 0;border-radius:8px;border:1px solid #ccc;font-size:1em}
+    button{background:#3b0d11;color:white;border:none;padding:12px 30px;border-radius:25px;font-size:1em;cursor:pointer}
+
+    .contact a{display:inline-block;margin:10px;padding:12px 25px;border-radius:30px;text-decoration:none;color:white;background:#3b0d11;font-weight:bold}
+    .wa{background:#25d366}
+
+    footer{background:#3b0d11;color:white;text-align:center;padding:20px;font-size:.9em}
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="ArtStar Pavi Logo">
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<div class="hero" id="home">
+  <h1>ArtStar Pavi</h1>
+  <p>Professional Handmade Art & Online Art Education</p>
+  <a href="https://wa.me/91XXXXXXXXXX">Contact on WhatsApp</a>
+</div>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p class="about">ArtStar Pavi is a professional art business founded by <b>Pavithra Sree. P</b>. We specialize in handmade paintings, texture and oil art, school craft projects, and structured online art classes for all age groups.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="box">Custom Handmade Paintings</div>
+    <div class="box">Texture, Oil & Pencil Art</div>
+    <div class="box">School Craft & Project Works</div>
+    <div class="box">Online Art Classes</div>
+  </div>
+</section>
+
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="gallery">
+    <img src="art1.jpg">
+    <img src="art2.jpg">
+    <img src="art3.jpg">
+    <img src="art4.jpg">
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea rows="4" placeholder="Your Message"></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+
+  <br>
+  <a class="wa" href="https://wa.me/91XXXXXXXXXX">WhatsApp</a>
+  <a href="https://instagram.com">Instagram</a>
+  <a href="https://youtube.com">YouTube</a>
+</section>
+
+<footer>
+  © 2025 ArtStar Pavi | Designed for Business Growth
+</footer>
+
+</body>
+</html>
